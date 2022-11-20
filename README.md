@@ -13,3 +13,5 @@ https://github.com/royalosyin/Calculate-Precipitation-based-Agricultural-Drought
 
 
 https://github.com/jeffjay88/Climate_Indices.git
+
+https://github.com/amandp13/Flood-Prediction-Model.git
