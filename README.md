@@ -18,3 +18,14 @@ https://github.com/amandp13/Flood-Prediction-Model.git
 
 
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+
+https://github.com/amydaali/Machine-Learning-Projects
+
+https://github.com/krishnaik06/Random-Forest-Regression.git
+
+https://github.com/krishnaik06?tab=repositories
+
+https://github.com/krishnaik06/SVM-kernel-and-ROC-AUC-Curve.git
+
+https://github.com/krishnaik06/Random-Forest-Regression.git
+https://github.com/chandarb/Python-Regression-Tree-Forest.git
