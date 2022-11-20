@@ -10,3 +10,6 @@ https://github.com/shreyasmahimkar/machinelearning.git
 
 
 https://github.com/royalosyin/Calculate-Precipitation-based-Agricultural-Drought-Indices-with-Python
+
+
+https://github.com/jeffjay88/Climate_Indices.git
