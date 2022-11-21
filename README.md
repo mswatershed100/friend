@@ -30,3 +30,7 @@ https://github.com/krishnaik06/SVM-kernel-and-ROC-AUC-Curve.git
 https://github.com/krishnaik06/Random-Forest-Regression.git
 https://github.com/chandarb/Python-Regression-Tree-Forest.git
 https://github.com/Chetank003/Rainfall-prediction-using-ANN-and-SVM.git
+https://github.com/jackeown/MLPRegressor
+https://github.com/MayurTeke/Neural-Network-MLPRegressor-using-sklearn.git
+
+
