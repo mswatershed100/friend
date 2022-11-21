@@ -39,3 +39,7 @@ https://github.com/SebastianCarvalhoSalazar/HappinessPrediction
 https://github.com/Moustafa878/Traffic_Volume_Prediction
 
 https://github.com/littlebeanbean7/GradientBoostingRegressor.git
+
+sebal
+https://github.com/rafatieppo/sebal.git
+
