@@ -32,6 +32,7 @@ https://github.com/chandarb/Python-Regression-Tree-Forest.git
 https://github.com/Chetank003/Rainfall-prediction-using-ANN-and-SVM.git
 https://github.com/jackeown/MLPRegressor
 https://github.com/MayurTeke/Neural-Network-MLPRegressor-using-sklearn.git
+https://github.com/royalosyin/Calculate-Precipitation-based-Agricultural-Drought-Indices-with-Python.git
 
 https://github.com/liorsidi/gradient-boosting-regressor-svr
 https://github.com/SebastianCarvalhoSalazar/HappinessPrediction
