@@ -34,6 +34,9 @@ https://github.com/jackeown/MLPRegressor
 https://github.com/MayurTeke/Neural-Network-MLPRegressor-using-sklearn.git
 https://github.com/royalosyin/Calculate-Precipitation-based-Agricultural-Drought-Indices-with-Python.git
 
+https://github.com/monocongo/climate_indices
+
+
 https://github.com/liorsidi/gradient-boosting-regressor-svr
 https://github.com/SebastianCarvalhoSalazar/HappinessPrediction
 
