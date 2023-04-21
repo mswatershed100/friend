@@ -55,3 +55,5 @@ https://github.com/justmarkham
 https://github.com/peekarboo/LongShortTermMemory-Prediction
 
 https-github.com-DIOGOBRODRIGUES-GoogleEarthEgine.git
+
+https://github.com/tnmthai/Machine-Learning-with-Python
